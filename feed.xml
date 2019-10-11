@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INTIX.info</title>
+    <description>With The Systems Thinking approach, We see any problem in a complete and holistic manner,  in fact, it is possible to apply Systems Thinking Methodology to ITSec problems allowing to  incorporate new variables (usability, trust, quality, risk, etc.) to the problem that before  were not considered in the solution.
+</description>
+    <link>http://www.intix.info/</link>
+    <atom:link href="http://www.intix.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Dec 2015 13:16:10 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2015 13:16:10 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>rTail – a tool to collect and view the WSO2 Logs in a browser</title>
+        <description>If you want some lightweight tool and easy to use to collect, track and visualise all type of events of your logs in real time and from an unique and standard way as a browser, then rTail is your tool. From rTail Github page (https://github.com/kilianc/rtail): rtail is a command line utility that grabs every line [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1348&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://www.intix.info/2015/11/20/rtail-a-tool-to-collect-and-view-the-wso2-logs-in-a-browser.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2015/11/20/rtail-a-tool-to-collect-and-view-the-wso2-logs-in-a-browser.html</guid>
+        
+        <category>SOA</category>
+        
+        <category>Logging</category>
+        
+        <category>Microservices</category>
+        
+        <category>rTail</category>
+        
+        <category>Wiremock</category>
+        
+        <category>WSO2</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Creating a VM with WSO2 servers for development with Vagrant &amp; Puppet</title>
+        <description>This VM is suitable to develop with WSO2 products and puts focus only in the server side (WSO2 servers, mock server and different tools to host our micro/services) and not in desktop side (Eclipse, SoapUI, Maven, etc.). The main objetive is to have a VM with all WSO2 products installed and configured to be ready [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1339&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://www.intix.info/2015/11/11/creating-a-vm-with-wso2-servers-for-development.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2015/11/11/creating-a-vm-with-wso2-servers-for-development.html</guid>
+        
+        <category>Linux</category>
+        
+        <category>Virtual Box</category>
+        
+        <category>SOA</category>
+        
+        <category>Cloud</category>
+        
+        <category>WSO2</category>
+        
+        <category>Puppet</category>
+        
+        <category>Vagrant</category>
+        
+        <category>Ubuntu</category>
+        
+        <category>Wiremock</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>WSO2 ESB MessageStore and MessageProcessor implementation for RabbitMQ</title>
+        <description>I. Introduction In this post I evaluated the level of integration of WSO2 ESB with different opensource message brokers such as Qpid, RabbitMQ, ActiveMQ and WSO2 Message Broker (https://holisticsecurity.wordpress.com/2015/01/25/evaluacion-nivel-madurez-integracion-message-brokers-opensource-wso2-esb). At the end, we got the conclusion that RabbitMQ is / was the most used message broker, poorly integrated and not easily integrable with WSO2 ESB. [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1328&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Tue, 14 Jul 2015 00:00:00 +0100</pubDate>
+        <link>http://www.intix.info/2015/07/14/wso2-esb-messagestore-messageprocessor-rabbitmq.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2015/07/14/wso2-esb-messagestore-messageprocessor-rabbitmq.html</guid>
+        
+        <category>AMQP</category>
+        
+        <category>Broker</category>
+        
+        <category>ESB</category>
+        
+        <category>JMS</category>
+        
+        <category>SOA</category>
+        
+        <category>RabbitMQ</category>
+        
+        <category>WSO2 ESB</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>[WEBINAR] Gestión de Identidades en Servicios con WSO2 Identity Server</title>
+        <description>Gestión de Identidades y Control de Acceso en los Servicios usando WSO2 Identity Server Date: Jueves, 18 de Junio, 2015 Time: 04:00 PM &amp;#8211; 05:00 PM (GMT) &amp;#124; 17:00 UK &amp;#124; 11:00 Perú, México, Colombia &amp;#124; 13:00 Brazil, Argentina, Chile Presenters: Roger Carhuatocto, Arquitecto Senior, Chakray Consulting &amp;#124; Edgar Silva, Vice President, Country Manager &amp;#8211; [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1284&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 00:00:00 +0100</pubDate>
+        <link>http://www.intix.info/2015/06/17/webinar-gestion-de-identidades-en-servicios-con-wso2-identity-server.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2015/06/17/webinar-gestion-de-identidades-en-servicios-con-wso2-identity-server.html</guid>
+        
+        <category>WEBCAST</category>
+        
+        <category>Webinar</category>
+        
+        <category>IdM</category>
+        
+        <category>SOA</category>
+        
+        <category>WSO2</category>
+        
+        <category>WSO2 ESB</category>
+        
+        <category>WSO2 IS</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Applying WS-Security Policy Framework to Webservices (WSO2 ESB) and Dataservices (WSO2 DSS)</title>
+        <description>WS-SecurityPolicy (http://docs.oasis-open.org/ws-sx/ws-securitypolicy/v1.3/os/ws-securitypolicy-1.3-spec-os.html) language is built on top of WS–Policy framework (http://www.w3.org/TR/ws-policy) and defines a set of policy assertions that can be used in a granular way to apply or to secure at message-level, in part of message, at operation-level or even at transport-level or service-level. Those individual policy assertions can be combined using policy operators [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1280&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2015 00:00:00 +0100</pubDate>
+        <link>http://www.intix.info/2015/04/19/applying-ws-security-policy-framework-to-wso2esb-wso2dss.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2015/04/19/applying-ws-security-policy-framework-to-wso2esb-wso2dss.html</guid>
+        
+        <category>EIP</category>
+        
+        <category>Security</category>
+        
+        <category>SOA</category>
+        
+        <category>Apache Neethi</category>
+        
+        <category>soapUI</category>
+        
+        <category>WS-Policy</category>
+        
+        <category>WSO2 DSS</category>
+        
+        <category>WSO2 ESB</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Squeezing the Sample 100 (Using WS-Security for Outgoing Messages) of WSO2 ESB 4.8.1</title>
+        <description>The &amp;#8220;Sample 100: Using WS-Security for Outgoing Messages&amp;#8221; is a great example to start learning with WS-Security, WS-Policy and how to deal with the security of SOAP webservices &amp;#8230;.. but the problem is that this example does not work, also that this example is not very well explained. You could get run successfully this example and [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1259&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+        <link>http://www.intix.info/2015/03/18/squeezing-sample100-ws-security-outgoing-messages-wso2-esb-481.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2015/03/18/squeezing-sample100-ws-security-outgoing-messages-wso2-esb-481.html</guid>
+        
+        <category>ESB</category>
+        
+        <category>Security</category>
+        
+        <category>SOA</category>
+        
+        <category>WS-Policy</category>
+        
+        <category>WS-Security</category>
+        
+        <category>WSO2 ESB</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Evaluación del nivel y madurez de integración de Message Brokers opensource con WSO2 ESB</title>
+        <description>I. Introducción En mi anterior post expliqué como usar Apache Qpid junto con WSO2 ESB (https://holisticsecurity.wordpress.com/2014/12/03/wso2-message-broker-vs-apache-qpid-messaging-eip), un message broker ligero, potente y compatible con JMS y AMQP, en lugar de WSO2 Message Broker, un message broker potente, rápido, estándar y perfectamente integrable a WSO2 ESB. Pues ahora, me gustaría compartir la comparación que hice previamente [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1248&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://www.intix.info/2015/01/25/evaluacion-nivel-madurez-integracion-message-brokers-opensource-wso2-esb.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2015/01/25/evaluacion-nivel-madurez-integracion-message-brokers-opensource-wso2-esb.html</guid>
+        
+        <category>AMQP</category>
+        
+        <category>Broker</category>
+        
+        <category>EIP</category>
+        
+        <category>ESB</category>
+        
+        <category>JMS</category>
+        
+        <category>Apache ActiveMQ</category>
+        
+        <category>Apache Qpid</category>
+        
+        <category>HornetQ</category>
+        
+        <category>RabbitMQ</category>
+        
+        <category>WSO2 ESB</category>
+        
+        <category>WSO2 MB</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>WSO2 Message Broker vs. Apache Qpid – Messaging Integration Patterns</title>
+        <description>If you want to define an Integration Architecture based on Messaging with WSO2, the only alternative you have is to do with WSO2 Message Broker and possibly also with Apache ActiveMQ. In earlier versions of WSO2 ESB, the WSO2 web had official information on how to integrate WSO2 ESB and Apache ActiveMQ, integrate both always [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1234&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+        <link>http://www.intix.info/2014/12/02/wso2-message-broker-vs-apache-qpid-messaging-eip.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2014/12/02/wso2-message-broker-vs-apache-qpid-messaging-eip.html</guid>
+        
+        <category>Big Data</category>
+        
+        <category>Broker</category>
+        
+        <category>ESB</category>
+        
+        <category>IoT</category>
+        
+        <category>SOA</category>
+        
+        <category>ActiveMQ</category>
+        
+        <category>Apache Qpid</category>
+        
+        <category>Message Broker</category>
+        
+        <category>RabbitMQ</category>
+        
+        <category>WSO2 ESB</category>
+        
+        <category>WSO2 MB</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>WSO2 Guest Webinar: Creando un Backend de Servicios y/o API con WSO2</title>
+        <description>&amp;#160; &amp;#160; WSO2 Webinar &amp;#8211; WSO2 Guest Webinar: Creando un Backend de Servicios y/o API con WSO2 &amp;#160; WSO2 Guest Webinar: Creando un Backend de Servicios y/o API con WSO2 Date: Thursday, July 17, 2014 Time: 16:00 p.m. &amp;#8211; GMT Presenters: Roger Carhuatocto, Consultor Técnico, Chakray &amp;#124; Isabelle Mauny, jefe de producto, WSO2 Después de [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1230&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
+        <link>http://www.intix.info/2014/07/15/wso2-guest-webinar-creando-un-backend-de-servicios-yo-api-con-wso2.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2014/07/15/wso2-guest-webinar-creando-un-backend-de-servicios-yo-api-con-wso2.html</guid>
+        
+        <category>ESB</category>
+        
+        <category>SOA</category>
+        
+        <category>Spanish</category>
+        
+        <category>WEBCAST</category>
+        
+        <category>Webinar</category>
+        
+        <category>API</category>
+        
+        <category>Backend</category>
+        
+        <category>WSO2</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MTOM en WSO2 ESB para optimizar la transferencia de datos binarios sobre SOAP (Parte 2/2)</title>
+        <description>En la anterior entrada explorábamos los beneficios del uso de MTOM en WSO2 ESB, ahora explicaremos cómo integrar esta funcionalidad en nuestras aplicaciones web, es decir, cómo invocar el mismo servicio desde una página web tradicional. I. Escenario. Una vez implementado MTOM sobre SOAP empleando WSO2, subir ficheros es sumamente fácil desde SoapUI, pero lo [&amp;#8230;]&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://pixel.wp.com/b.gif?host=holisticsecurity.wordpress.com&amp;#038;blog=2005905&amp;#038;post=1219&amp;#038;subd=holisticsecurity&amp;#038;ref=&amp;#038;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</description>
+        <pubDate>Mon, 26 May 2014 00:00:00 +0100</pubDate>
+        <link>http://www.intix.info/2014/05/26/mtom-en-wso2-esb-para-optimizar-la-transferencia-de-datos-binarios-sobre-soap-parte-22.html</link>
+        <guid isPermaLink="true">http://www.intix.info/2014/05/26/mtom-en-wso2-esb-para-optimizar-la-transferencia-de-datos-binarios-sobre-soap-parte-22.html</guid>
+        
+        <category>ESB</category>
+        
+        <category>SOA</category>
+        
+        <category>TESTING</category>
+        
+        <category>Apache Axiom</category>
+        
+        <category>Axis2</category>
+        
+        <category>MTOM</category>
+        
+        <category>SOAP</category>
+        
+        <category>soapUI</category>
+        
+        <category>SwA</category>
+        
+        <category>WSO2 ESB</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

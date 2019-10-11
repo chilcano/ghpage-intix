@@ -1,0 +1,49 @@
+/* INTIX WEB */
+
+
+a{
+	color: #ff9110;
+	text-decoration: none
+}
+a:hover{
+	color: #ff9110;
+	text-decoration: underline
+}
+a:visited{
+	color: #ff9110;
+	text-decoration: none
+}
+a.nav-icon{
+	color: #000000;
+	text-decoration: none	
+}
+
+blogtag{
+	text-transform:uppercase
+} 
+
+blogtag:hover{
+	text-decoration: underline
+} 
+
+footer ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	overflow:hidden;
+	float:left;
+	margin-left:15px;
+	margin-top:10px;
+	width:60%
+}
+footer ul li{
+	float:left;	
+	margin-right:1em
+}
+footer ul li a{
+	color:#ff9110;
+	font-size:0.85em;
+	text-transform:uppercase
+}
+
+/* INTIX END */
